@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+ I am a visiting professor of economics and I am exploring how I could use Github more effectively. 
+
 <!--
 **enrique92286/enrique92286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
